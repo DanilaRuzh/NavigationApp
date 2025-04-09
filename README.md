@@ -30,6 +30,8 @@
 
 <img src="Navigation/Screen_1.png" alt="Screenshot 1" width="400">
 <img src="Navigation/Screen_2.png" alt="Screenshot 2" width="400">
+<img src="Navigation/Screen_3.png" alt="Screenshot 3" width="400">
+
 
 
 Установка
